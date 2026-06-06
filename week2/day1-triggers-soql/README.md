@@ -1,4 +1,4 @@
-# Day 6 – Triggers and SOQL
+# Day 1 – Triggers and SOQL
 
 ## 1. What is SOQL?
 
